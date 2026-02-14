@@ -48,4 +48,4 @@ This dashboard helps stakeholders:
 - Understand borrower behavior
 - Monitor funding and repayment performance
 
-[Bank-Loan-Dashboard
+[Bank-Loan-Dashboard.png](Bank-Loan-Dashboard.png)
